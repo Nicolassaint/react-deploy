@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.e323eef0.css",
-    "main.js": "/react-deploy/static/js/main.f9f2c280.js",
+    "main.css": "/react-deploy/static/css/main.f5c04231.css",
+    "main.js": "/react-deploy/static/js/main.31ecbb14.js",
     "static/js/787.62c5b892.chunk.js": "/react-deploy/static/js/787.62c5b892.chunk.js",
     "static/media/logoJEECE_blanc.png": "/react-deploy/static/media/logoJEECE_blanc.b4ccea57f226597c0ba4.png",
     "index.html": "/react-deploy/index.html",
-    "main.e323eef0.css.map": "/react-deploy/static/css/main.e323eef0.css.map",
-    "main.f9f2c280.js.map": "/react-deploy/static/js/main.f9f2c280.js.map",
+    "main.f5c04231.css.map": "/react-deploy/static/css/main.f5c04231.css.map",
+    "main.31ecbb14.js.map": "/react-deploy/static/js/main.31ecbb14.js.map",
     "787.62c5b892.chunk.js.map": "/react-deploy/static/js/787.62c5b892.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e323eef0.css",
-    "static/js/main.f9f2c280.js"
+    "static/css/main.f5c04231.css",
+    "static/js/main.31ecbb14.js"
   ]
 }

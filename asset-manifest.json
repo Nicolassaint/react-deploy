@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.f5c04231.css",
-    "main.js": "/react-deploy/static/js/main.31ecbb14.js",
-    "static/js/787.62c5b892.chunk.js": "/react-deploy/static/js/787.62c5b892.chunk.js",
+    "main.css": "/react-deploy/static/css/main.79d01a07.css",
+    "main.js": "/react-deploy/static/js/main.1367929c.js",
+    "static/media/image_accueil.png": "/react-deploy/static/media/image_accueil.c3ddddaa6cba0130f888.png",
+    "static/media/depot.png": "/react-deploy/static/media/depot.3ecfdebdf23897576ed0.png",
+    "static/media/instagram.webp": "/react-deploy/static/media/instagram.e291349581f33a4f4b3e.webp",
+    "static/media/footer.png": "/react-deploy/static/media/footer.741a611c39f30fc6fffe.png",
     "static/media/logoJEECE_blanc.png": "/react-deploy/static/media/logoJEECE_blanc.b4ccea57f226597c0ba4.png",
+    "static/media/linkedin.webp": "/react-deploy/static/media/linkedin.1509a49fd0d407f5df63.webp",
     "index.html": "/react-deploy/index.html",
-    "main.f5c04231.css.map": "/react-deploy/static/css/main.f5c04231.css.map",
-    "main.31ecbb14.js.map": "/react-deploy/static/js/main.31ecbb14.js.map",
-    "787.62c5b892.chunk.js.map": "/react-deploy/static/js/787.62c5b892.chunk.js.map"
+    "main.79d01a07.css.map": "/react-deploy/static/css/main.79d01a07.css.map",
+    "main.1367929c.js.map": "/react-deploy/static/js/main.1367929c.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5c04231.css",
-    "static/js/main.31ecbb14.js"
+    "static/css/main.79d01a07.css",
+    "static/js/main.1367929c.js"
   ]
 }

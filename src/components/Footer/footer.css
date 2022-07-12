@@ -1,0 +1,32 @@
+.image_footer {
+  width: 97.5%;
+  height: 97.5%;
+  margin-left: 20px;
+}
+
+.instagram_logo {
+  width: 70px;
+  height: 70px;
+}
+
+.linkedin_logo {
+  width: 70px;
+  height: 70px;
+  margin-left: 10px;
+}
+
+#logos_reseaux {
+  position: absolute;
+  top: 732px;
+  right: 70px;
+}
+
+#texte_footer {
+  position: absolute;
+  top: 732px;
+  right: 650px;
+}
+
+.texte_footer {
+  color: white;
+}

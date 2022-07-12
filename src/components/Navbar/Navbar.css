@@ -23,6 +23,11 @@ nav {
   color: white;
   cursor: pointer;
   float: right;
+  font-weight: 500;
+}
+
+.items:hover {
+  text-decoration: underline;
 }
 
 .btn {
@@ -40,16 +45,14 @@ nav {
 @media screen and (max-width: 570px) {
   .liste {
     flex-direction: column;
-    height: 330px;
+    height: 400px;
     margin: 0;
     padding: 0;
   }
-
   .items:nth-child(1) {
     border-top: 1px solid #fff;
     margin-top: 50px;
   }
-
   .items {
     height: 50px;
     width: 100%;

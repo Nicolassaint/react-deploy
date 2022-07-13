@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.41a0e024.css",
-    "main.js": "/react-deploy/static/js/main.272cd936.js",
+    "main.css": "/react-deploy/static/css/main.b3f48292.css",
+    "main.js": "/react-deploy/static/js/main.254b804a.js",
     "static/media/image_accueil.png": "/react-deploy/static/media/image_accueil.c3ddddaa6cba0130f888.png",
     "static/media/Plaquette_Commerciale.pdf": "/react-deploy/static/media/Plaquette_Commerciale.34e6cb97b9dea1270236.pdf",
     "static/media/depot.png": "/react-deploy/static/media/depot.3ecfdebdf23897576ed0.png",
     "static/media/instagram.webp": "/react-deploy/static/media/instagram.e291349581f33a4f4b3e.webp",
     "static/media/footer.png": "/react-deploy/static/media/footer.741a611c39f30fc6fffe.png",
+    "static/media/confiance.png": "/react-deploy/static/media/confiance.e8520140bcf39560e3d8.png",
     "static/media/logoJEECE_blanc.png": "/react-deploy/static/media/logoJEECE_blanc.b4ccea57f226597c0ba4.png",
+    "static/media/valeurs.png": "/react-deploy/static/media/valeurs.4fab08535b8577c08fd2.png",
     "static/media/linkedin.webp": "/react-deploy/static/media/linkedin.1509a49fd0d407f5df63.webp",
     "index.html": "/react-deploy/index.html",
-    "main.41a0e024.css.map": "/react-deploy/static/css/main.41a0e024.css.map",
-    "main.272cd936.js.map": "/react-deploy/static/js/main.272cd936.js.map"
+    "main.b3f48292.css.map": "/react-deploy/static/css/main.b3f48292.css.map",
+    "main.254b804a.js.map": "/react-deploy/static/js/main.254b804a.js.map"
   },
   "entrypoints": [
-    "static/css/main.41a0e024.css",
-    "static/js/main.272cd936.js"
+    "static/css/main.b3f48292.css",
+    "static/js/main.254b804a.js"
   ]
 }

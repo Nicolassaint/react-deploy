@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.b3f48292.css",
-    "main.js": "/react-deploy/static/js/main.254b804a.js",
+    "main.css": "/react-deploy/static/css/main.1f460d34.css",
+    "main.js": "/react-deploy/static/js/main.00c99e2f.js",
     "static/media/image_accueil.png": "/react-deploy/static/media/image_accueil.c3ddddaa6cba0130f888.png",
     "static/media/Plaquette_Commerciale.pdf": "/react-deploy/static/media/Plaquette_Commerciale.34e6cb97b9dea1270236.pdf",
     "static/media/depot.png": "/react-deploy/static/media/depot.3ecfdebdf23897576ed0.png",
@@ -12,11 +12,11 @@
     "static/media/valeurs.png": "/react-deploy/static/media/valeurs.4fab08535b8577c08fd2.png",
     "static/media/linkedin.webp": "/react-deploy/static/media/linkedin.1509a49fd0d407f5df63.webp",
     "index.html": "/react-deploy/index.html",
-    "main.b3f48292.css.map": "/react-deploy/static/css/main.b3f48292.css.map",
-    "main.254b804a.js.map": "/react-deploy/static/js/main.254b804a.js.map"
+    "main.1f460d34.css.map": "/react-deploy/static/css/main.1f460d34.css.map",
+    "main.00c99e2f.js.map": "/react-deploy/static/js/main.00c99e2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3f48292.css",
-    "static/js/main.254b804a.js"
+    "static/css/main.1f460d34.css",
+    "static/js/main.00c99e2f.js"
   ]
 }

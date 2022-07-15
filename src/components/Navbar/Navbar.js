@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useMatch, useResolvedPath } from 'react-router-dom';
 import './Navbar.css';
+import pdf from './Plaquette_Commerciale.pdf';
 import logo from './logoJEECE_blanc.png';
 import logo_menu from './logo_menu.png';
 
 export default function Navbar() {
-  //const image1 = require("./LogoJEECE_blanc.png").default;
   const [toggleMenu, setToggleMenu] = useState(false);
   const [largeur, setLargeur] = useState(window.innerWidth);
 
@@ -55,9 +55,9 @@ export default function Navbar() {
           <CustomLink to='/Contact'>
             <li className='items'>Contact</li>
           </CustomLink>
-          <CustomLink to='/Plaquette'>
+          <a href={pdf} target='_blank'>
             <li className='items'>Plaquette</li>
-          </CustomLink>
+          </a>
         </ul>
       )}
 

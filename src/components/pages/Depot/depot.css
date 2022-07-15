@@ -1,0 +1,68 @@
+.image_depot {
+  width: 90%;
+  height: 90%;
+  margin-left: 20px;
+}
+
+#slider_depot {
+  position: relative;
+}
+#contenu_slider_depot {
+  top: 150px;
+  right: 800px;
+  position: absolute;
+}
+
+input {
+  width: 130%;
+  border: 2px solid #aaa;
+  border-radius: 4px;
+  margin: 1px 0;
+  outline: none;
+  padding: 8px;
+  box-sizing: border-box;
+  transition: 0.3s;
+}
+
+input:focus {
+  border-color: rgb(63, 167, 90);
+  box-shadow: 0 0 8px 0 rgb(63, 167, 90);
+}
+
+.input_message {
+  width: 300%;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.bouton_envoyer {
+  margin-left: 110%;
+  width: 100%;
+  background-color: rgb(63, 167, 90);
+  border: none;
+  font-size: large;
+  transition: 0.3s;
+}
+
+.bouton_envoyer:hover {
+  background-color: rgb(27, 97, 27);
+}
+
+textarea {
+  resize: none;
+}
+
+textarea {
+  border: 2px solid #aaa;
+  border-radius: 4px;
+  margin: 1px 0;
+  outline: none;
+  padding: 8px;
+  box-sizing: border-box;
+  transition: 0.3s;
+}
+
+textarea:focus {
+  border-color: rgb(63, 167, 90);
+  box-shadow: 0 0 8px 0 rgb(63, 167, 90);
+}

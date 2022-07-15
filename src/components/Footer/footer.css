@@ -1,6 +1,6 @@
 .image_footer {
-  width: 97.5%;
-  height: 97.5%;
+  width: 98%;
+  height: 98%;
   margin-left: 20px;
 }
 
@@ -17,16 +17,20 @@
 
 #logos_reseaux {
   position: absolute;
-  top: 732px;
-  right: 70px;
+  bottom: 45px;
+  right: 120px;
 }
 
 #texte_footer {
   position: absolute;
-  top: 732px;
-  right: 650px;
+  bottom: 55px;
+  right: 900px;
 }
 
 .texte_footer {
   color: white;
+}
+
+#slider_footer {
+  position: relative;
 }

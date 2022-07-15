@@ -1,7 +1,7 @@
 nav {
   height: 80px;
   background: rgb(63, 167, 90);
-  margin: 10px;
+  margin: 20px;
   border-radius: 40px;
 }
 
@@ -23,11 +23,33 @@ nav {
   color: white;
   cursor: pointer;
   float: right;
+  font: bold 14px/1.4 'Open Sans', arial, sans-serif;
   font-weight: 500;
+  font-size: 100%;
+  z-index: 2;
+  transition: 0.3s;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 0.15em;
+  position: relative;
+  padding: 15px 20px;
 }
 
-.items:hover {
-  text-decoration: underline;
+.items:after {
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: '';
+  display: block;
+  height: 2px;
+  left: 50%;
+  background: #fff;
+  position: absolute;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0;
+}
+.items:hover:after {
+  width: 100%;
+  left: 0;
 }
 
 .btn {

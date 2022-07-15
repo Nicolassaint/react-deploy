@@ -6,7 +6,7 @@ import './footer.css';
 
 export default function footer() {
   return (
-    <div id='slider'>
+    <div id='slider_footer'>
       <img src={image_footer} alt='image_footer' className='image_footer' />
       <div id='logos_reseaux'>
         <a href='https://www.instagram.com/juniorjeece/?hl=fr'>

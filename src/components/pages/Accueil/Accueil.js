@@ -36,6 +36,57 @@ export default function Accueil() {
           alt='image_chiffres_clés'
           className='image_chiffres_clés'
         />
+        <div id='conteneur_principal'>
+          <div id='contenu_texte_intro'>
+            <span id='texte_chiffres_clés'>
+              <br />
+              Spécialisée dans les technologies du numérique tel que
+              l’informatique et l’électronique,
+              <br /> JEECE accompagne les entreprises dans la réalisation de
+              leurs projets liés aux nouvelles technologiques <br />
+              depuis 1986.
+            </span>
+            <br />
+            <br />
+            <br />
+          </div>
+
+          <div id='conteneur_chiffres_clés'>
+            <br /> <br />
+            <div className='contenu_stats'>
+              <span className='texte_grand_vert'>36</span>
+              <br /> <br />
+              <span className='texte_petit_annexe'>
+                Ans <br />
+                d'expérience
+              </span>
+            </div>
+            <div className='contenu_stats'>
+              <span className='texte_grand_vert'>90</span>
+              <br /> <br />
+              <span className='texte_petit_annexe'>
+                Membres <br />
+                pour vous accompagner
+              </span>
+            </div>
+            <div className='contenu_stats'>
+              <span className='texte_grand_vert'>12</span>
+              <br /> <br />
+              <span className='texte_petit_annexe'>
+                Ans dans la liste des <br />
+                30 meilleures Junior-Entreprises
+              </span>
+            </div>
+            <div className='contenu_stats'>
+              <span className='texte_grand_vert'>103</span>
+              <br /> <br />
+              <span className='texte_petit_annexe'>
+                L'ECE, une école centenaire
+              </span>
+            </div>
+          </div>
+        </div>
+        <br />
         <img
           src={image_ligne_verte}
           alt='image_ligne_verte'

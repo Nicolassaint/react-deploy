@@ -35,7 +35,7 @@
 
 #slider_accueil {
   margin: 1%;
-  margin-right: 2%;
+  margin-right: 1.5vw;
   position: relative;
 }
 
@@ -43,6 +43,35 @@
   position: absolute;
   margin-left: 62%;
   margin-top: -17%;
+}
+
+#conteneur_principal {
+  text-align: center;
+}
+
+#contenu_texte_intro {
+  float: center;
+}
+
+#conteneur_chiffres_clés {
+  display: flex;
+}
+.contenu_stats {
+  flex-grow: 1;
+}
+
+#texte_chiffres_clés {
+  font-weight: 500;
+}
+
+.texte_grand_vert {
+  font-size: 400%;
+  color: rgb(63, 167, 90);
+  font-weight: 700;
+}
+
+.texte_petit_annexe {
+  font-weight: 500;
 }
 
 .bouton_accueil {

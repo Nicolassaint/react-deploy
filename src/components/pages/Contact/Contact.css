@@ -1,0 +1,22 @@
+.bouton_calendly {
+  width: 15vw;
+  height: 3vw;
+  background-color: white;
+  display: inline-block;
+  outline: none;
+  cursor: pointer;
+  font-size: calc(0.05rem + 0.7vw);
+  line-height: 1;
+  border-radius: 5vh;
+  transition-duration: 0.3s;
+  transition-property: background-color, border-color, color, box-shadow, filter;
+  border: 1px solid black;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.bouton_calendly:hover {
+  color: #fff;
+  background-color: rgb(50, 70, 93);
+}

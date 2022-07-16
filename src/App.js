@@ -11,9 +11,11 @@ function App() {
   return (
     <>
       <Navbar />
+
       <div className='container'>
         <Routes>
           <Route path='/' element={<Accueil />} />
+          <Route path='/react-deploy' element={<Accueil />} />
           <Route path='/Notre_structure' element={<Notre_structure />} />
           <Route path='/Nos_offres' element={<Nos_offres />} />
           <Route path='/Contact' element={<Contact />} />

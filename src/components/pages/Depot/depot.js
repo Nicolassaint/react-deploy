@@ -17,6 +17,7 @@ export default function depot() {
       .then(
         (result) => {
           console.log(result.text);
+          alert('Le message à bien été envoyé !');
         },
         (error) => {
           console.log(error.text);
@@ -71,7 +72,6 @@ export default function depot() {
             placeholder='Message'
             className='input_message'
             name='message'
-            resize='none'
             required
           ></textarea>
           <br />

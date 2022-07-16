@@ -34,36 +34,42 @@
 }
 
 #slider_accueil {
-  margin: 10px;
+  margin: 1%;
+  margin-right: 2%;
   position: relative;
 }
 
 #contenu_slider_accueil {
   position: absolute;
-  margin-left: 1180px;
-  margin-top: -280px;
+  margin-left: 62%;
+  margin-top: -17%;
 }
 
 .bouton_accueil {
-  width: 270px;
-  height: 55px;
+  width: 15vw;
+  height: 3vw;
   background-color: white;
   display: inline-block;
   outline: none;
   cursor: pointer;
-  font-size: 14px;
+  font-size: calc(0.1rem + 0.7vw);
   line-height: 1;
-  border-radius: 500px;
+  border-radius: 5vh;
   transition-duration: 0.3s;
   transition-property: background-color, border-color, color, box-shadow, filter;
   border: 1px solid transparent;
   letter-spacing: 2px;
   text-transform: uppercase;
   font-weight: 700;
-  padding: 16px 14px 18px;
 }
 
 .bouton_accueil:hover {
   color: #fff;
   background-color: rgb(50, 70, 93);
+}
+
+@media screen and (max-width: 570px) {
+  #slider_accueil {
+    margin-top: 330px;
+  }
 }

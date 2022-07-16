@@ -8,18 +8,18 @@
   position: relative;
 }
 #contenu_slider_depot {
-  top: 150px;
-  right: 800px;
+  top: 16%;
+  right: 40%;
   position: absolute;
 }
 
-input {
-  width: 130%;
+.input_text {
+  width: 13vw;
+  height: 2vw;
   border: 2px solid #aaa;
   border-radius: 4px;
-  margin: 1px 0;
   outline: none;
-  padding: 8px;
+  padding: 1vh;
   box-sizing: border-box;
   transition: 0.3s;
 }
@@ -30,17 +30,22 @@ input:focus {
 }
 
 .input_message {
-  width: 300%;
-  height: 150px;
-  margin-bottom: 20px;
+  position: absolute;
+  width: 30vw;
+  height: 8vw;
+  margin-bottom: 10%;
 }
 
 .bouton_envoyer {
-  margin-left: 110%;
-  width: 100%;
+  position: absolute;
+  border-radius: 4px;
+  margin-top: 7vw;
+  margin-left: 85%;
+  width: 8vw;
+  height: 2vw;
   background-color: rgb(63, 167, 90);
   border: none;
-  font-size: large;
+  font-size: calc(0.1rem + 0.7vw);
   transition: 0.3s;
 }
 
@@ -49,7 +54,8 @@ input:focus {
 }
 
 textarea {
-  resize: none;
+  max-width: 330%;
+  max-height: 60%;
 }
 
 textarea {

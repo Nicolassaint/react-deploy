@@ -5,26 +5,25 @@
 }
 
 .instagram_logo {
-  width: 70px;
-  height: 70px;
+  width: 4vw;
 }
 
 .linkedin_logo {
-  width: 70px;
-  height: 70px;
-  margin-left: 10px;
+  width: 4vw;
+  margin-left: 1vw;
 }
 
 #logos_reseaux {
   position: absolute;
-  bottom: 45px;
-  right: 120px;
+  bottom: 18%;
+  right: 5%;
 }
 
 #texte_footer {
   position: absolute;
-  bottom: 55px;
-  right: 900px;
+  font-size: calc(0.1rem + 0.7vw);
+  bottom: 21%;
+  right: 46%;
 }
 
 .texte_footer {

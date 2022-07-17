@@ -77,7 +77,7 @@
 .bouton_accueil {
   width: 15vw;
   height: 3vw;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.8);
   display: inline-block;
   outline: none;
   cursor: pointer;
@@ -86,7 +86,7 @@
   border-radius: 5vh;
   transition-duration: 0.3s;
   transition-property: background-color, border-color, color, box-shadow, filter;
-  border: 1px solid transparent;
+  border: 1px solid ;
   letter-spacing: 2px;
   text-transform: uppercase;
   font-weight: 700;

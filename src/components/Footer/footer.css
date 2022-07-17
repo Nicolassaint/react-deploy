@@ -1,3 +1,7 @@
+.image_footer{
+width:100%;
+}
+
 .instagram_logo {
   width: 4vw;
 }
@@ -15,7 +19,7 @@
 
 #texte_footer {
   position: absolute;
-  font-size: calc(0.1rem + 0.7vw);
+  font-size: calc(0.2rem + 0.7vw);
   bottom: 21%;
   right: 46%;
 }

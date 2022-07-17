@@ -43,8 +43,8 @@ export default function Accueil() {
               Spécialisée dans les technologies du numérique tel que
               l’informatique et l’électronique,
               <br /> JEECE accompagne les entreprises dans la réalisation de
-              leurs projets liés aux nouvelles technologiques <br />
-              depuis 1986.
+              leurs projets liés aux nouvelles <br /> technologiques 
+              depuis <b>1986</b>.
             </span>
             <br />
             <br />

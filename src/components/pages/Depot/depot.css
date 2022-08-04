@@ -2,13 +2,23 @@
   width: 90%;
   height: 90%;
   margin-left: 20px;
+  margin-top: 15px;
+}
+
+.image_etapes {
+  width: 80%;
+  height: 80%;
+}
+#conteneur_image_etapes {
+  display: flex;
+  justify-content: center;
 }
 
 #slider_depot {
   position: relative;
 }
 #contenu_slider_depot {
-  top: 16%;
+  top: 20%;
   right: 40%;
   position: absolute;
 }
